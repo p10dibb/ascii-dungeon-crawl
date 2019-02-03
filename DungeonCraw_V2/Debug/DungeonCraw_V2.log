@@ -1,0 +1,24 @@
+﻿  room.c
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\room.c(71): warning C4013: 'roomgraphic' undefined; assuming extern returning int
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\room.c(86): warning C4048: different array subscripts: 'char (*)[10]' and 'char [12][12]'
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\room.c(80): warning C4101: 'enemy1': unreferenced local variable
+  main.c
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\main.c(4): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  occurence.c
+  crawl.c
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\crawl.c(29): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\crawl.c(51): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  Generating Code...
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\crawl.c(130): warning C4716: 'gain_health': must return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\crawl.c(107): warning C4715: 'level_up': not all control paths return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\occurence.c(127): warning C4716: 'combat_damages': must return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\occurence.c(314): warning C4716: 'shop': must return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\occurence.c(372): warning C4716: 'treasure': must return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\occurence.c(54): warning C4715: 'combat': not all control paths return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\room.c(59): warning C4716: 'insertatEnd': must return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\room.c(171): warning C4716: 'navigate': must return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\room.c(239): warning C4716: 'roomgraphic': must return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\room.c(251): warning C4716: 'printMap': must return a value
+c:\users\paul\desktop\compsci\side project\dungeon crawl\dungeoncraw_v2\dungeoncraw_v2\room.c(397): warning C4716: 'move': must return a value
+  DungeonCraw_V2.vcxproj -> C:\Users\paul\Desktop\compsci\side project\Dungeon crawl\DungeonCraw_V2\Debug\DungeonCraw_V2.exe
+  DungeonCraw_V2.vcxproj -> C:\Users\paul\Desktop\compsci\side project\Dungeon crawl\DungeonCraw_V2\Debug\DungeonCraw_V2.pdb (Partial PDB)
